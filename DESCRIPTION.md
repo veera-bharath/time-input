@@ -1,0 +1,1 @@
+A lightweight jQuery plugin for masked time input (HH:MM format) with validation, keyboard navigation, and smart copy-paste support
